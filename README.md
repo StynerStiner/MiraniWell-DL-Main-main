@@ -2,10 +2,10 @@
 
 ![Miriani Well - Multilingual AI Wellness Companion with Luna](/.github/images/img_main.png "Miriani Well - Multilingual AI Wellness Companion with Luna")
 
-[![Proprietary License](https://img.shields.io/badge/license-Proprietary-red.svg)](https://github.com/stynerdev225/MiraniWell-DL-Main-main/blob/main/LICENSE "Proprietary License")
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/stynerdev225/MiraniWell-DL-Main-main/commits/main "Maintenance")
-[![Company](https://img.shields.io/badge/Company-Miriani%20Well-blue.svg)](https://github.com/stynerdev225/MiraniWell-DL-Main-main "Company")
-[![AI Powered](https://img.shields.io/badge/AI-Luna%20Companion-purple.svg)](https://github.com/stynerdev225/MiraniWell-DL-Main-main "AI Powered")
+[![Proprietary License](https://img.shields.io/badge/license-Proprietary-red.svg)](https://github.com/StynerStiner/MiraniWell-DL-Main-main/blob/main/LICENSE "Proprietary License")
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/StynerStiner/MiraniWell-DL-Main-main/commits/main "Maintenance")
+[![Company](https://img.shields.io/badge/Company-Miriani%20Well-blue.svg)](https://github.com/StynerStiner/MiraniWell-DL-Main-main "Company")
+[![AI Powered](https://img.shields.io/badge/AI-Luna%20Companion-purple.svg)](https://github.com/StynerStiner/MiraniWell-DL-Main-main "AI Powered")
 
 ## 🌟 About Miriani Well
 
@@ -17,7 +17,7 @@
 **Founder & CEO:** Dr. Uzo Nwankpa  
 **Lead Developer:** StynerDev Development Team  
 **Contact:** stynerdev2025@aol.com
-**Repository:** https://github.com/stynerdev225/MiraniWell-DL-Main-main.git
+**Repository:** https://github.com/StynerStiner/MiraniWell-DL-Main-main.git
 **Platform:** Multilingual AI-Powered Wellness Experience
 
 ## 🌟 Core Features & Benefits
